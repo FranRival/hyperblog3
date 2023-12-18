@@ -1,5 +1,6 @@
 body {
-    color: black;
+
+    color: purple;
     text-align: center;
     font-family: "arial";
     font-size: 16px;
@@ -9,12 +10,20 @@ body {
 
 #cabecera {
 
-    background: purple;
+    background: url("imagenes/Finder.png") no-repeat center center cover;
     box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, .75);
     margin: 0;
     color: white;
+    background-color: purple;
     font-weight: bold;
     padding: 0.5em;
+}
+
+#cabecera #logo{
+    width: 40px;
+    vertical-align: middle;
+
+
 }
 
 #cabecera #tagline {
@@ -40,6 +49,8 @@ body {
 }
 
 #post {
+    background: white;
+    padding: 1em;
 
 
 }
