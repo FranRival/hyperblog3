@@ -14,3 +14,4 @@ Esperemos que esta marca sea la primera de cientos de miles. **(y de mucho diner
 
 * ya estamos aca bebe 
 * ya estamos a un dia de distancia de pasar el examen
+* ya me canse de this shit 
