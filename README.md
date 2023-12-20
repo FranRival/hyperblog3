@@ -12,3 +12,4 @@ Alguna cita que referencia nuestra vida? pues igual y si. ~~pero realmente nunca
 
 Esperemos que esta marca sea la primera de cientos de miles. **(y de mucho dinerillo)**
 
+* ya estamos aca bebe 
